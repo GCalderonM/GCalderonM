@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guille, from Spain, Seville
-- 👀 I’m interested in backend development.
-- 🌱 I’m currently learning Symfony with Hexagonal Arquitecture, DDD, all implemented with Docker.
+- 👀 I’m interested in full stack development.
+- 🌱 I’m currently working with PHP/Symfony/Laravel/JS/Vue stack.
 - 📫 How to reach me: @GalletaCM on social medias!
 
 <!---
