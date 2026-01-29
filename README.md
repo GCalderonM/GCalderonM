@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guille, from Spain, Seville
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently working with PHP/Laravel/JS/Vue stack.
+- 🌱 I’m currently working with PHP/Laravel/JS/TS/Go stack.
 - 📫 How to reach me: @GalletaCM on social medias!
 
 <!---
